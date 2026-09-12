@@ -1,0 +1,3 @@
+{
+  "name":"Fullbody Logbook","short_name":"Logbook","description":"Diário de treinos fullbody offline.","start_url":"./index.html","display":"standalone","background_color":"#111827","theme_color":"#111827","lang":"pt-BR","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml"}]
+}
